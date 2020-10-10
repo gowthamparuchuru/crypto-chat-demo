@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/crypto-chat-demo/precache-manifest.2b8c469430243e4c7f9b84752b2fa36f.js"
+  "/crypto-chat-demo/precache-manifest.72d6761690632d7b9f4081955a935c7e.js"
 );
 
 self.addEventListener('message', (event) => {
