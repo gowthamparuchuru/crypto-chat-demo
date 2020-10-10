@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/crypto-chat-demo/static/css/main.029563ab.chunk.css",
-    "main.js": "/crypto-chat-demo/static/js/main.6f3277dd.chunk.js",
-    "main.js.map": "/crypto-chat-demo/static/js/main.6f3277dd.chunk.js.map",
+    "main.js": "/crypto-chat-demo/static/js/main.15ef4dac.chunk.js",
+    "main.js.map": "/crypto-chat-demo/static/js/main.15ef4dac.chunk.js.map",
     "runtime-main.js": "/crypto-chat-demo/static/js/runtime-main.800731aa.js",
     "runtime-main.js.map": "/crypto-chat-demo/static/js/runtime-main.800731aa.js.map",
     "static/js/2.226f6f68.chunk.js": "/crypto-chat-demo/static/js/2.226f6f68.chunk.js",
     "static/js/2.226f6f68.chunk.js.map": "/crypto-chat-demo/static/js/2.226f6f68.chunk.js.map",
     "index.html": "/crypto-chat-demo/index.html",
-    "precache-manifest.92213c850f14034733363c48d8cc77ec.js": "/crypto-chat-demo/precache-manifest.92213c850f14034733363c48d8cc77ec.js",
+    "precache-manifest.40fd9207da7d62cb08dc13987d02e9ab.js": "/crypto-chat-demo/precache-manifest.40fd9207da7d62cb08dc13987d02e9ab.js",
     "service-worker.js": "/crypto-chat-demo/service-worker.js",
     "static/css/main.029563ab.chunk.css.map": "/crypto-chat-demo/static/css/main.029563ab.chunk.css.map",
     "static/js/2.226f6f68.chunk.js.LICENSE.txt": "/crypto-chat-demo/static/js/2.226f6f68.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.800731aa.js",
     "static/js/2.226f6f68.chunk.js",
     "static/css/main.029563ab.chunk.css",
-    "static/js/main.6f3277dd.chunk.js"
+    "static/js/main.15ef4dac.chunk.js"
   ]
 }
