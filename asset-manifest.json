@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/crypto-chat-demo/static/css/main.029563ab.chunk.css",
+    "main.js": "/crypto-chat-demo/static/js/main.f82c54ab.chunk.js",
+    "main.js.map": "/crypto-chat-demo/static/js/main.f82c54ab.chunk.js.map",
+    "runtime-main.js": "/crypto-chat-demo/static/js/runtime-main.800731aa.js",
+    "runtime-main.js.map": "/crypto-chat-demo/static/js/runtime-main.800731aa.js.map",
+    "static/js/2.226f6f68.chunk.js": "/crypto-chat-demo/static/js/2.226f6f68.chunk.js",
+    "static/js/2.226f6f68.chunk.js.map": "/crypto-chat-demo/static/js/2.226f6f68.chunk.js.map",
+    "index.html": "/crypto-chat-demo/index.html",
+    "precache-manifest.2b8c469430243e4c7f9b84752b2fa36f.js": "/crypto-chat-demo/precache-manifest.2b8c469430243e4c7f9b84752b2fa36f.js",
+    "service-worker.js": "/crypto-chat-demo/service-worker.js",
+    "static/css/main.029563ab.chunk.css.map": "/crypto-chat-demo/static/css/main.029563ab.chunk.css.map",
+    "static/js/2.226f6f68.chunk.js.LICENSE.txt": "/crypto-chat-demo/static/js/2.226f6f68.chunk.js.LICENSE.txt",
+    "static/media/googleIcon.svg": "/crypto-chat-demo/static/media/googleIcon.af68e760.svg",
+    "static/media/sendIcon.svg": "/crypto-chat-demo/static/media/sendIcon.14f8dffe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.800731aa.js",
+    "static/js/2.226f6f68.chunk.js",
+    "static/css/main.029563ab.chunk.css",
+    "static/js/main.f82c54ab.chunk.js"
+  ]
+}
