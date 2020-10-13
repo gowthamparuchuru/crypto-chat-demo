@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "46b61ead9487420843c776bba391f8d2",
+    "revision": "2a398709bf5100ce470502b3fc9e4158",
     "url": "/crypto-chat-demo/index.html"
   },
   {
-    "revision": "e63f110aeb0ca804b9c1",
+    "revision": "1dc2a9416195f54a5f01",
     "url": "/crypto-chat-demo/static/css/main.029563ab.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crypto-chat-demo/static/js/2.226f6f68.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e63f110aeb0ca804b9c1",
-    "url": "/crypto-chat-demo/static/js/main.15ef4dac.chunk.js"
+    "revision": "1dc2a9416195f54a5f01",
+    "url": "/crypto-chat-demo/static/js/main.ee665958.chunk.js"
   },
   {
     "revision": "8fb96cd3e7bd4bfdc276",
