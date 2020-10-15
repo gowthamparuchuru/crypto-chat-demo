@@ -26,7 +26,7 @@ function App() {
   return (
     <div className="App">
       <nav className="navbar navbar-expand-lg fixed-top navbar-dark bg-dark">
-        <a className="navbar-brand" href="/#">
+        <a className="navbar-brand">
           <h1>
             <span role="img" aria-label="msg">
               💬
@@ -49,13 +49,13 @@ function App() {
           <ul className="navbar-nav ml-auto">
             {key !== "" && (
               <li className="nav-item">
-                <a className="nav-link" href="/#">
+                <a className="nav-link">
                   <ClearChat />
                 </a>
               </li>
             )}
             <li className="nav-item">
-              <a className="nav-link" href="/#">
+              <a className="nav-link">
                 <SignOut className="mb-3" />
               </a>
             </li>
@@ -136,7 +136,7 @@ function CryptoKey(props) {
       <form className="crypto-from">
         <div className="form-group">
           <label>
-            <h3>Enter Crpto Key</h3>
+            <h3>Enter Crypto Key</h3>
           </label>
           <input type="password" className="form-control" id="key-input" />
         </div>
@@ -158,7 +158,7 @@ function CryptoKey(props) {
           </span>
         </small>
         <small className="form-text text-muted">
-          • We can also block account if user enters wrong key many timmes.
+          • We can also block account if user enters wrong key many times.
         </small>
       </form>
     </>
